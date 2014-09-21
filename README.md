@@ -17,6 +17,7 @@ D. Label data files
 E. Tidy data and download to current working directory
 
 Detailed Steps as per the code:
+
  1  Read Training Data from respective files
  2  Read Testing Data from respective files
  3  Read Label Data
